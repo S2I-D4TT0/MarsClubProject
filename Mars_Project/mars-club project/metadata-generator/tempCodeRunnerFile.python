@@ -1,0 +1,2 @@
+links=page.get_links()
+# print(links)

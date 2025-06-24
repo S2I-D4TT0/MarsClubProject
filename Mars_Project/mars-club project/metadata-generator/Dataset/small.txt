@@ -1,0 +1,6 @@
+transformers https://github.com/S2I-D4TT0
+torch
+streamlit https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/
+pymupdf
+groq
+python-docx

@@ -1,0 +1,7 @@
+transformers
+torch
+streamlit
+pymupdf
+groq
+python-docx
+python-dotenv
