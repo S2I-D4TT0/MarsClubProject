@@ -10,7 +10,7 @@ This Streamlit app extracts text, tables, and links from uploaded documents (PDF
 
 - 📄 Upload and parse `.pdf`, `.docx`, `.txt` files
 - 📜 Extract raw text, links, and tables
-- 🧠 Generate metadata using Groq API
+- 🧠 Generate metadata using Groq API and  model="llama3-70b-8192",
 - 📝 Summarize the document content
 - 🔐 Uses `.env` for secure API key management
 
